@@ -1,0 +1,7 @@
+{
+  "name": "AlimStock Pro",
+  "description": "Une application moderne de gestion de stock pour alimentations, avec assistant intelligent Gemini, suivi des ventes en temps réel et alertes de stock faible.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
